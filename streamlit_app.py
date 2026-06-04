@@ -229,7 +229,7 @@ st.markdown("""
         background: rgba(255,255,255,0.05) !important;
         border: 1px solid rgba(255,255,255,0.15) !important;
         border-radius: 12px !important;
-        color: white !important;
+        color: black !important;
         font-family: 'Plus Jakarta Sans', sans-serif !important;
     }
     .stTextArea textarea:focus {
